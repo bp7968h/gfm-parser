@@ -8,4 +8,4 @@ This software is under the MIT license. See details in [license file](./LICENSE)
 
 ## Contributions
 We gladly accept contributions via GitHub pull requests. Please see
-[CONTRIBUTING.md](CONTRIBUTING.md) for more details.
+[CONTRIBUTION.md](CONTRIBUTION.md) for more details.
