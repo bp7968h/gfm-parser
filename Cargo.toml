@@ -8,5 +8,6 @@ readme = "README.md"
 repository = "https://github.com/bp7968h/gfm-parser"
 license = "MIT"
 keywords = ["rust", "parser", "markdown", "github-flavoured-markdown"]
+default-run = "cli"
 
 [dependencies]
